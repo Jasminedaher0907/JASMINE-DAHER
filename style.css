@@ -1,0 +1,115 @@
+body {
+                background: #C5D6D8;
+                text-align: center;
+                font-family: famille de polices : 'Baloo Tammudu 2', cursive ;
+}
+ 
+   
+h1 { color: #34A0A4;
+    font-family: famille de polices : 'Baloo Tammudu 2', cursive ;
+    text-align: center;
+font-size: 700%;}
+
+
+h2 { text-align: center; color: #3C096C; famille de polices : 'Baloo Tammudu 2', cursive ;}
+
+
+h3 { text-align: center; famille de polices : 'Baloo Tammudu 2', cursive ;; color:#3C096C;
+}
+
+
+h4 {text-align: center;famille de polices : 'Baloo Tammudu 2', cursive ;; color: #3C096C; font-size: 120%;}
+
+
+
+.premier{display: flex;
+
+ 
+ul {text-align: left; famille de polices : 'Baloo Tammudu 2', cursive ;}
+ 
+p {
+position: left;
+height: 500px;
+width: 910px;
+text-align: left;
+object-fit: left;
+}
+ 
+
+.img-galery{
+                border-radius: 20%;  box-shadow: 10px 10px 10px grey;
+}
+ 
+.fridabanner.jpg {
+                width: 250px;
+                height: 250px;
+                border-radius: 0%; box-shadow: 10px 10px 10px yellow;
+}
+ 
+ 
+.frame {
+                border: 4px solid color: #FFEA00;
+                margin: 50px auto;
+                padding:70px;
+                width: 400px;
+                 box-shadow: 10px 10px 10px grey; »
+}
+ 
+.frameinformation{
+ 
+                border: 20px solid color: #FFDD00
+                margin:10px auto ;
+                padding: 10px;
+                width: 170px;
+ 
+}
+ 
+.menu{
+                display: flex;
+                align-items: right;
+                justify-content: space-between;
+                border: 2px;
+                padding: 10px;
+                background-color: white;
+}
+ 
+.menu2{
+                display: flex;
+                align-items: right;
+                justify-content: space-between;
+                border: 2px;
+                padding: 50px;
+                background-color: #F1DEDC;
+}
+ 
+.fridalogo.png{
+ 
+border-radius: 50%
+width:250px;
+object-position: left;
+width:1px;
+height: 2px;
+ 
+}
+ 
+.item{
+ 
+                margin: 0px 15px;
+                height:30px;
+                border: 10px;
+}
+.links {
+  display: flex;
+  justify-content: flex-end;
+}
+ 
+.link {
+  margin: 10px 30px;
+  color: #3C096C;
+}
+ 
+.link:hover {
+  color: #3C096C;
+}
+
+.first{align-items: left; justify-content: left; display: flex;
